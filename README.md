@@ -1,0 +1,1 @@
+doctrine-json-unescaped-type
